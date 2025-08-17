@@ -78,4 +78,4 @@ let fibo = (n) => {
     }
     return U2;
 }
-console.log(fibo(6))
+console.log(fibo(2))
