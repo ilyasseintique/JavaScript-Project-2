@@ -65,6 +65,7 @@ let primeornot = (n) => {
 }
 console.log(primeornot(4));
 
+//fibonacci function 
 let fibo = (n) => {
     if(n==0){return 0};
     if(n==1){return 1};
