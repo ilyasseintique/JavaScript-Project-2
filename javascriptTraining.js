@@ -80,4 +80,3 @@ let fibo = (n) => {
     return U2;
 }
 console.log(fibo(2))
-//it was nice
